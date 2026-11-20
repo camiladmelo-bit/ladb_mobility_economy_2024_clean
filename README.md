@@ -107,5 +107,5 @@ Python · pandas · NumPy · seaborn · matplotlib · Jupyter Notebook
 ## Author
 
 **Camila Jorge**
-[LinkedIn](https://linkedin.com/in/<your-profile>) · [GitHub](https://github.com/<your-username>)
+[LinkedIn](https://www.linkedin.com/in/camila-de-melo-jorge-a855081a2/) · [GitHub](https://github.com/camiladmelo-bit)
 
